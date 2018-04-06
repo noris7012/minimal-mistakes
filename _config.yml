@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Noris7012's Blog"
+title                    : "Noris's Blog"
 title_separator          : "-"
 name                     : "Noris"
 description              : "그냥 어느 개발자"
@@ -97,10 +97,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Noris"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "그냥 어느 개발자"
+  location         : "서울, 한국"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
