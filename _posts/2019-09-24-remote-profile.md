@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "VisualVM 을 이용해 원격 프로파일링하기"
-date:   2019-01-30 10:20:00 +0900
+date:   2019-09-24 16:20:00 +0900
 categories: Post
 ---
 
